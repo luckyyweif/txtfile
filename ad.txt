@@ -143,3 +143,4 @@ DOMAIN-SUFFIX,jdddate.com,REJECT
 DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
 DOMAIN-SUFFIX,mazu.m.qq.com,REJECT
 DOMAIN-SUFFIX,mssdk.volces.com,REJECT
+DOMAIN-SUFFIX,id6.me,REJECT
