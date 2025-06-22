@@ -140,3 +140,6 @@ DOMAIN-SUFFIX,impdsp.meituan.com,REJECT
 DOMAIN-SUFFIX,1rtb.com,REJECT
 DOMAIN-SUFFIX,jlgxmob.com,REJECT
 DOMAIN-SUFFIX,jdddate.com,REJECT
+DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com,REJECT
+DOMAIN-SUFFIX,mazu.m.qq.com,REJECT
+DOMAIN-SUFFIX,mssdk.volces.com,REJECT
